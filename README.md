@@ -1,7 +1,8 @@
 <h1>Hi, I'm Jason! <br/><a href="https://github.com/Jason-Siu">Programmer</a>, <a href="https://www.linkedin.com/in/jason-siu-18b5122ab/">Recent College Graduate</a>, Security+ Certified</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- <b>Cloud SOC Environment using Microsoft Azure / Cloud</b>
+  - [Creating a Live SOC / honeynet in Azure](https://github.com/Jason-Siu/Cloud-SOC)
 - <b>Chess AI using alpha-beta pruning and quiescence search</b>
   - [Project Link Here](https://github.com/Jason-Siu/Chess-AI)
 - <b>Unbeatable Tic-Tac-Toe AI using minimax algorithm</b>
@@ -17,11 +18,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Cybersecurity Projects</h2>
-
-- <b>Cloud SOC Environment using Microsoft Azure / Cloud</b>
-  - [Creating a Live SOC / honeynet in Azure](https://github.com/Jason-Siu/Cloud-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -19,6 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Cybersecurity Projects</h2>
+
 - <b>Cloud SOC Environment using Microsoft Azure / Cloud</b>
   - [Cloud SOC](https://github.com/Jason-Siu/Cloud-SOC)
 

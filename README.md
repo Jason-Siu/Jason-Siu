@@ -21,7 +21,7 @@
 <h2>📺 Cybersecurity Projects</h2>
 
 - <b>Cloud SOC Environment using Microsoft Azure / Cloud</b>
-  - [Cloud SOC](https://github.com/Jason-Siu/Cloud-SOC)
+  - [Creating a Live SOC / honeynet in Azure](https://github.com/Jason-Siu/Cloud-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 

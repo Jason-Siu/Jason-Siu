@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jason! <br/><a href="https://github.com/Jason-Siu">Programmer</a>, <a href="https://www.linkedin.com/in/jason-siu-18b5122ab/">Recent College Graduate</a>, Security+ Certified</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

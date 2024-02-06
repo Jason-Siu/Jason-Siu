@@ -1,9 +1,11 @@
-<h1>Hi, I'm Jason! <br/><a href="https://github.com/Jason-Siu">Programmer</a>, <a href="https://www.linkedin.com/in/jason-siu-18b5122ab/">Recent College Graduate</a>, Security+ Certified</a></h1>
+<h1>Hi, I'm Jason! <br/><a href="https://github.com/Jason-Siu">Programmer</a>, <a href="https://www.linkedin.com/in/jason-siu-18b5122ab/">College Graduate</a>, Security+ Certified</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cloud SOC Environment using Microsoft Azure / Cloud</b>
   - [Creating a Live SOC / honeynet in Azure](https://github.com/Jason-Siu/Cloud-SOC)
+- <b>Vulnerability Management using OpenVAS and Microsoft Azure </b>
+  - [OpenVAS Vulnerability Management](https://github.com/Jason-Siu/OpenVAS-Vulnerability-Scanning)
 - <b>Chess AI using alpha-beta pruning and quiescence search</b>
   - [Project Link Here](https://github.com/Jason-Siu/Chess-AI)
 - <b>Unbeatable Tic-Tac-Toe AI using minimax algorithm</b>

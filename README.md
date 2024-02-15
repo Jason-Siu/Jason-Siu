@@ -6,6 +6,10 @@
   - [Creating a Live SOC / honeynet in Azure](https://github.com/Jason-Siu/Cloud-SOC)
 - <b>Vulnerability Management using OpenVAS and Microsoft Azure </b>
   - [OpenVAS Vulnerability Management](https://github.com/Jason-Siu/OpenVAS-Vulnerability-Scanning)
+- <b>Azure Portal Login Bruteforcer</b>
+  - [Azure Portal Login Bruteforcer](https://github.com/Jason-Siu/Bruteforce-Azure-Entra-ID-Script)
+- <b>Minesweeper.online solver</b>
+  - https://github.com/Jason-Siu/minesweeper-online-solver
 - <b>Chess AI using alpha-beta pruning and quiescence search</b>
   - [Project Link Here](https://github.com/Jason-Siu/Chess-AI)
 - <b>Unbeatable Tic-Tac-Toe AI using minimax algorithm</b>
